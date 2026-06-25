@@ -1,4 +1,4 @@
-# ☀️ Solar Energy Data Pipeline
+# End-to-End Data Engineering Pipeline for Renewable Energy Data Quality and Analytics
 
 An end-to-end Data Engineering project that processes renewable energy generation data using Python, PostgreSQL, SQL, and Tableau.
 
